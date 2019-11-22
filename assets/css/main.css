@@ -3509,27 +3509,27 @@ input, select, textarea {
 			}
 
 			.tiles article:nth-child(6n - 5):before {
-				background-color: #6fdf78;
+				background-color: #71cb78;
 			}
 
 			.tiles article:nth-child(6n - 4):before {
-				background-color: #ed5555;
+				background-color: #346633;
 			}
 
 			.tiles article:nth-child(6n - 3):before {
-				background-color: #ed5555;
+				background-color: #eaa221;
 			}
 
 			.tiles article:nth-child(6n - 2):before {
-				background-color: #6fdf78;
+				background-color: #f1c84c;
 			}
 
 			.tiles article:nth-child(6n - 1):before {
-				background-color: #6fdf78;
+				background-color: #b32134;
 			}
 
 			.tiles article:nth-child(6n):before {
-				background-color: #ed5555;
+				background-color: #e03c31;
 			}
 
 			/* Default Colour Scheme
