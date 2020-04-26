@@ -7,6 +7,16 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+#content-desktop {display: block;}
+#content-mobile {display: none;}
+
+@media screen and (max-width: 1500px) {
+
+#content-desktop {display: none;}
+#content-mobile {display: block;}
+
+}
+
 .videoWrapper {
 	position: relative;
 	padding-bottom: 56.25%; /* 16:9 */
